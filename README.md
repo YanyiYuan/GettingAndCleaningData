@@ -1,9 +1,5 @@
 # GettingAndCleaningData
-title: "Getting and Cleaning Data - Course Project"
-output:
-  html_document:
-    df_print: paged
----
+
 
 This is the course project for the Getting and Cleaning Data Coursera course. 
 
